@@ -1,7 +1,6 @@
 function discover(btnFind) {
-    let userAge = prompt("¿Cuál es la edad de tu hij@?");
-    let age = parseInt(userAge);
-    let mensaje = document.getElementById("text");
+    let age = parseInt(prompt("¿Cuál es la edad de tu hij@?"));
+        let mensaje = document.getElementById("text");
 
     if (1 < age < 3) {
         alert("Tienes un pequeñ@ Toddler");

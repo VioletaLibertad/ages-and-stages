@@ -1,5 +1,9 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: url("C:\Users\morad\Documents\Laboratoria\ejercicios-libres\ages-and-stages\assets\css\img\fondo.jpg"), lightblue;
+    background: url(../css/img/fondo.jpg), lightblue;
+    background-size: cover;
+    margin: 0;
+    height: 100%;
+    color: aliceblue;
 }
 
