@@ -1,21 +1,21 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: url(../css/img/fondo.jpg), lightblue;
-    background-size: cover;
+    background: white;
     margin: 0;
-    height: 100%;
-    color: aliceblue;
+    color: black;
 }
 
 #box {
     height: 300px;
     width: 1000px;
-    margin: 50px;
     text-align: center;
-    border: 5px solid aquamarine;
-    border-radius: 30px;
     padding: 15px;
     position: relative;
     left: 70px;
 }
 
+#imgChildren {
+    width: 1250px;
+    position: relative;
+    bottom: 100px;
+}
